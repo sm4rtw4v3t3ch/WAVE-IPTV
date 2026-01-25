@@ -311,7 +311,7 @@ The filter icon in the top-right lets you display:
 - Series only
 - Movies and series
 
-Add to favorites : just long click on a content to add it as favorite or click on the button “ad to favorites” when in the details screen.
+Add to favorites : just long click on a content to add it as favorite or click on the button “add to favorites” when in the details screen.
 
 Removing favorites:
 

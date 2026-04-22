@@ -1,27 +1,19 @@
-# Wave IPTV
+# Wave
 
-Wave IPTV is a modern IPTV player for Android TV, Fire TV, and Android mobile devices. 
+Wave  is a modern  player for Android TV, Fire TV, and Android mobile devices. 
 It is designed for users who want a fast, polished, and highly customizable experience for live TV, movies, and series using their own playlists.
 
-> Wave IPTV is an IPTV player only. It does **not** provide channels, playlists, or content subscriptions. Users must import their own content.
-
-## Official Links
-
-- Website: [https://waveiptv.org/](https://waveiptv.org/)
-- Documentation: [https://waveiptv.org/en/docs](https://waveiptv.org/en/docs)
-- Discord: [https://discord.gg/XmSqQ7h8Rq](https://discord.gg/XmSqQ7h8Rq)
+> Wave is a player only. It does **not** provide channels, playlists, or content subscriptions. Users must import their own content.
 
 ## Available Versions
 
-- Android TV / Google TV: [Google Play](https://play.google.com/store/apps/details?id=com.smartwave.wave_iptv)
 - Fire TV / TV APK releases: [GitHub Releases](https://github.com/sm4rtw4v3t3ch/WAVE-IPTV/releases)
-- Android Mobile: [Google Play](https://play.google.com/store/apps/details?id=com.waveiptv.mobile)
 
 ## Main Features
 
 - Modern interface optimized for TV and mobile
 - Support for live TV, movies, and series
-- Playlist import via M3U, Xtream Codes, QR code, backup restore, cloud sync, and MAC-based remote activation
+- Playlist import via remote, QR code, backup restore, cloud sync, and MAC-based remote activation
 - EPG / TV guide support
 - Fast global search
 - Favorites and history
@@ -32,7 +24,7 @@ It is designed for users who want a fast, polished, and highly customizable expe
 
 ## Getting Started
 
-1. Install Wave IPTV on your device.
+1. Install Wave on your device.
 2. Import your playlist using the method that fits your provider:
    - M3U link
    - Xtream Codes
@@ -45,7 +37,7 @@ It is designed for users who want a fast, polished, and highly customizable expe
 
 ## Premium
 
-Wave IPTV includes a free experience for core playback and navigation, while Premium unlocks additional features such as:
+Wave includes a free experience for core playback and navigation, while Premium unlocks additional features such as:
 
 - Favorites and history for VOD
 - Custom groups
@@ -60,10 +52,7 @@ N.B:During the free trial, Cloud Sync and Backup / Restore are not active.
 
 ## Pricing for premium access
 
-- Android TV version: `€2.49/month`, `€9.99/year`, or `€19.99 lifetime`
-- TV version installed via Downloader / GitHub release: `€19.99 lifetime`
-- Mobile version: `€3.99` one-time purchase
-
+TV version installed via Downloader / GitHub release: `€19.99 lifetime`
 The prices may change over time.
 
 ### Device Activation
@@ -86,7 +75,7 @@ If you use the Play Store version on Android TV:
 
 If you installed the TV version outside the Play Store, the Premium code must be generated from the mobile app:
 
-1. Install **Wave IPTV Mobile**
+1. Install **Wave Mobile**
 2. Open the mobile app
 3. Create your profile
 4. Import your playlist and give it a name
@@ -101,8 +90,8 @@ If you installed the TV version outside the Play Store, the Premium code must be
 
 For the mobile app:
 
-1. Open Wave IPTV Mobile
-2. Go to the purchase option in settings or on the "My wave" section
+1. Open Wave  Mobile
+2. Go to the purchase option in settings section
 3. Buy the full app access
 
 ### Alternative Payment
@@ -113,14 +102,8 @@ While it's recommended to pay with Google, you can also use the PayPal option:
 
 The Premium code is sent by email afterward (can take a few hours).
 
-## Support
-
-- Docs: [https://waveiptv.org/en/docs](https://waveiptv.org/en/docs)
-- Website: [https://waveiptv.org/](https://waveiptv.org/)
-- Discord: [https://discord.gg/XmSqQ7h8Rq](https://discord.gg/XmSqQ7h8Rq)
-
 ## Disclaimer
 
-Wave IPTV is a player application. It does not host, provide, sell, or distribute TV channels, movies, series, or playlists. Users are responsible for their own content sources and for complying with the laws applicable in their country. 
+Wave  is a player application. It does not host, provide, sell, or distribute TV channels, movies, series, or playlists. Users are responsible for their own content sources and for complying with the laws applicable in their country. 
 Any unauthorized modification, redistribution, commercial exploitation, misuse of the application, its assets, branding, or related services is strictly prohibited and may result in account suspension, service termination, and legal action.
 

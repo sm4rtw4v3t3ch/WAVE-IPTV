@@ -55,52 +55,16 @@ N.B:During the free trial, Cloud Sync and Backup / Restore are not active.
 TV version installed via Downloader / GitHub release: `€19.99 lifetime`
 The prices may change over time.
 
-### Device Activation
+### Device activation + How to buy premium
 
 - One TV Premium code gives access to up to **5 devices**
-- Users can purchase multiple codes if needed
+- Users can purchase one or multiple codes if needed through the Companion app: 
+  [Link](https://github.com/sm4rtw4v3t3ch/WAVEO_COMPANION/releases/download/1_0_0/waveo-companion-1.0.0.apk)
 
-## How To Buy Premium
-
-### Android TV / Google TV
-
-If you use the Play Store version on Android TV:
-
-1. Open the TV app
-2. Go to `Settings > Subscription`
-3. Choose the plan you want
-4. Complete the payment through Google Play
-
-### Fire TV / Downloader / GitHub TV Version
-
-If you installed the TV version outside the Play Store, the Premium code must be generated from the mobile app:
-
-1. Install **Wave Mobile**
-2. Open the mobile app
-3. Create your profile
-4. Import your playlist and give it a name
-5. Go to `Settings`
-6. Tap `Premium TV Code`
-7. Complete the payment
-8. Wait a few seconds for the code to appear
-9. On the TV app, go to `Settings > Subscription`
-10. Enter the Premium code to activate your TV version
-
-### Mobile App Purchase
-
-For the mobile app:
-
-1. Open Wave  Mobile
-2. Go to the purchase option in settings section
-3. Buy the full app access
 
 ### Alternative Payment
 
-While it's recommended to pay with Google, you can also use the PayPal option:
-
-- [Pay with PayPal](https://www.paypal.com/ncp/payment/DGXS4SHS3ZD42)
-
-The Premium code is sent by email afterward (can take a few hours).
+Payments on the website will be available soon. Stay tuned!
 
 ## Disclaimer
 
